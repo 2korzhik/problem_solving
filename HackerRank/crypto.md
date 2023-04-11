@@ -11,3 +11,5 @@ Suspicious transactions are defined as:
 A sequence of suspicious transactions may occur over time periods greater than one hour.
 
 The result should have the following columns: `sender, sequence_start, sequence_end, trans transactions_sum,  transactions_count`
+
+https://sqliteonline.com
